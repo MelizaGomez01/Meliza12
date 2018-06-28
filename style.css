@@ -1,0 +1,19 @@
+body {
+font-family: 'Dancing Script', cursive;
+  text-align: justify;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-color: #33FFF0
+}
+
+h1{
+  color: #FF5733;
+  text-align:justify;
+}
+
+h2{
+color: #FF5733;
+text-align:justify;
+}
